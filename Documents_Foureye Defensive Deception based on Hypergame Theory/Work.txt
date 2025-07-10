@@ -1,0 +1,48 @@
+Service Provider
+
+Login,
+Browse Network Data Sets and Train & Test, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Threat Detection Status, 
+View Threat Detection Status Ratio, 
+Download Predicted Data Sets, 
+View Threat Detection Status Ratio Results, 
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT THREAT DETECTION STATUS,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Flow_ID,
+Source_IP,
+Source_Port,
+Destination_IP,
+Destination_Port,
+Timestamp,
+Flow_Duration,
+Total_Fwd_Packets,
+Total_Backward_Packets,
+Total_Length_of_Fwd_Packets,
+Total_Length_of_Bwd_Packets,
+Fwd_Packet_Length_Max,
+Fwd_Packet_Length_Min,
+Bwd_Packet_Length_Max,
+Flow_Bytes,
+Flow_Packets,
+Fwd_Packets,
+Bwd_Packets,
+Max_Packet_Length,
+Prediction.
+
+
+
+
+
+
