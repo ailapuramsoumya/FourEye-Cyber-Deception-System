@@ -61,8 +61,6 @@ FourSight/
 > 💡 Make sure you’re using Python 3.11 or later.
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/FourSight.git
-cd FourSight
+https://github.com/ailapuramsoumya/FourEye-Cyber-Deception-System.git
 
 
